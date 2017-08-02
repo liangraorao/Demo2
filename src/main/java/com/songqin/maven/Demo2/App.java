@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("This is first jenkins demo");
+        System.out.println("this is second jenkins test");
     }
 }
